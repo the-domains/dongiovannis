@@ -10,8 +10,13 @@ color:
     - '#F6E497'
     - '#FCFAE1'
     - '#BD8D46'
+github: true
 layout_spectrum: 0.14295052783563733
+author:
+  name: Jeff Duffy
+  email: MrMrBungle@gmail.com
 name: DonGiovanni's
+url: 'https://thegrid.ai/dongiovanni/'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -23,6 +28,9 @@ navigation:
   - name: Menu
     id: 3a376524-3d5e-4d4d-a3c9-bc8392c3cc51
     type: content
+  - name: Contact Us
+    id: 09bf5b7d-2324-4a6f-8bda-bf147b771a9c
+    type: content
 title: Don Giovanni's
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -33,19 +41,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d612553-5d28-48ec-908c-2ee72dd0c21c.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -57,19 +65,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a7e7af2-178d-40f7-9a85-8b719daa7e24.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -81,19 +89,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c0aca24-e844-4d23-a887-b20ab956c02b.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -105,5 +113,3 @@ purpose:
   - type: contact
     url: 'mailto:DonGiovanniDublin@gmail.com'
     label: Email
-github: true
-url: 'https://thegrid.ai/dongiovanni/'
