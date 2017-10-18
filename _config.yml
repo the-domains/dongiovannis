@@ -1,0 +1,109 @@
+typography_spectrum: 0.5089911955874413
+color:
+  brandStrength: 0.08263169531710446
+  lightness: 0.8929944485425949
+  saturation: 0.6344457510858774
+  rhythmicContrast: 0.2924578604288399
+  brandColors:
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+layout_spectrum: 0.14295052783563733
+name: DonGiovanni's
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Menu
+    id: 3a376524-3d5e-4d4d-a3c9-bc8392c3cc51
+    type: content
+title: Don Giovanni's
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d612553-5d28-48ec-908c-2ee72dd0c21c.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d612553-5d28-48ec-908c-2ee72dd0c21c.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a7e7af2-178d-40f7-9a85-8b719daa7e24.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a7e7af2-178d-40f7-9a85-8b719daa7e24.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c0aca24-e844-4d23-a887-b20ab956c02b.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c0aca24-e844-4d23-a887-b20ab956c02b.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Italian Cuisine
+purpose:
+  - type: contact
+    url: 'tel:012999999'
+    label: Call 01-299 8999
+  - type: contact
+    url: 'mailto:DonGiovanniDublin@gmail.com'
+    label: Email
+github: true
+url: 'https://thegrid.ai/dongiovanni/'
