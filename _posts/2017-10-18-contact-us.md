@@ -1,18 +1,18 @@
 ---
 inFeed: true
 description: 'Call": 01-2875407'
-dateModified: '2017-10-18T14:19:56.907Z'
-datePublished: '2017-10-18T14:19:57.422Z'
+dateModified: '2017-10-18T14:24:21.313Z'
+datePublished: '2017-10-18T14:24:21.953Z'
 title: Contact Us
 author: []
 publisher: {}
 via: {}
-isBasedOnUrl: >-
-  https://the-grid.github.io/ed-location/?latitude=53.315191&longitude=-6.247443&zoom=16&address=11c%20Milltown%20Road%2C%20Donnybrook%2C%20Dublin%2C%20Ireland
 sourcePath: _posts/2017-10-18-contact-us.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-10-18T14:17:35.665Z'
-_type: MediaObject
+url: contact-us/index.html
+_type: Article
 
 ---
 # Contact Us
